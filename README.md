@@ -9,8 +9,8 @@ Here is a quick test of the program:
 Use Cases:
 
  - Graphical Design for a website
- - Recursion Training
- - Turtle Training
+ - Learning Recursion
+ - Learning about the Turtle class
 
 Problems:
 
